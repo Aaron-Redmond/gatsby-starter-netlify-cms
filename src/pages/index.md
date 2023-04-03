@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Joes Vending Machines
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Joes Cans
+subheading:When life gives you lemons, trade them in for a can of soda.
 mainpitch:
-  title: Why Kaldi
+  title: Why Joes
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Joe's Cans vending machines offer a wide range of products, including snacks, drinks, and even meals in some cases. You can choose from healthy options or indulge in some guilty pleasures.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Joe's Cans vending machines offer a wide range of products, including snacks, drinks, and even meals in some cases. You can choose from healthy options or indulge in some guilty pleasures.
 intro:
   blurbs:
     - image: /img/coffee.png
